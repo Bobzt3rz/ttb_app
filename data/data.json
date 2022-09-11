@@ -1,0 +1,57 @@
+[
+  {
+    "_id": "631c4c5aebbe71f58dfdf6f8",
+    "index": 0,
+    "type": "graphics",
+    "picture": "http://placehold.it/32x32",
+    "header": "Est eiusmod ad deserunt est est consequat pariatur adipisicing dolore voluptate.",
+    "body": "Ea fugiat exercitation cupidatat deserunt commodo duis excepteur proident eu fugiat. Reprehenderit nostrud laborum veniam et deserunt. Qui nulla dolor exercitation voluptate deserunt duis exercitation officia laborum nulla exercitation. Aliqua tempor culpa sit elit dolore laborum dolor quis nisi commodo. Culpa exercitation voluptate occaecat dolore qui ea laborum ullamco eiusmod proident consequat laboris laborum excepteur.\r\n",
+    "isExpandable": true,
+    "expandableText": "Fugiat esse laborum aliqua amet mollit aute ipsum elit adipisicing mollit. Nisi velit pariatur officia nisi laborum dolore excepteur eiusmod elit aliquip culpa. Officia labore id aute officia proident commodo et ex. In deserunt ut Lorem sit non excepteur aliqua officia. Voluptate enim cupidatat elit commodo minim mollit nostrud commodo nulla.\r\n",
+    "CTA": "none"
+  },
+  {
+    "_id": "631c4c5a67677ace678e5a1f",
+    "index": 1,
+    "type": "news",
+    "picture": "http://placehold.it/32x32",
+    "header": "Aute adipisicing magna nulla excepteur sunt dolore incididunt anim laborum sit.",
+    "body": "Laboris est voluptate velit eiusmod laborum eiusmod. Labore deserunt sunt tempor cillum mollit culpa non cillum cillum amet voluptate nisi magna. Velit deserunt aliqua aute sit veniam est nostrud do dolor id qui. Magna cupidatat fugiat minim labore pariatur laborum veniam labore magna sint enim et minim. Tempor dolore Lorem aute fugiat velit sunt veniam et aliquip ea. Dolore officia irure incididunt fugiat id et deserunt nulla culpa consequat eu non.\r\n",
+    "isExpandable": true,
+    "expandableText": "Incididunt excepteur do amet id consectetur aute id. Qui esse mollit incididunt velit aute adipisicing cupidatat veniam aute occaecat occaecat qui nostrud adipisicing. Reprehenderit amet ea reprehenderit velit ad cillum non commodo incididunt sunt. Aliqua nisi laboris fugiat magna aliquip dolor qui cupidatat.\r\n",
+    "CTA": "investment"
+  },
+  {
+    "_id": "631c4c5a13ecdb8cf205dbfe",
+    "index": 2,
+    "type": "graphics",
+    "picture": "http://placehold.it/32x32",
+    "header": "Consequat cupidatat ad qui id sit labore eiusmod.",
+    "body": "Ut deserunt est occaecat labore consequat anim velit. Mollit deserunt laboris nostrud minim amet fugiat consequat et excepteur cupidatat commodo. Incididunt nulla eiusmod sunt reprehenderit. Nulla aliqua aliquip ea et nulla sint ad nostrud velit deserunt proident reprehenderit pariatur.\r\n",
+    "isExpandable": false,
+    "expandableText": "Amet anim minim do occaecat ut labore esse do ut pariatur. Mollit pariatur in voluptate duis deserunt anim et duis pariatur consequat non in culpa. Elit esse ad qui enim esse irure et quis anim. Laboris culpa sint ipsum fugiat duis consequat laborum veniam Lorem anim. Elit deserunt eiusmod veniam et sunt dolore aute ex mollit mollit ut et magna sit. Exercitation aliquip ullamco est exercitation enim magna sunt eiusmod. Fugiat aute aliqua anim sunt eiusmod.\r\n",
+    "CTA": "transfer"
+  },
+  {
+    "_id": "631c4c5ae4a95ec554fc5342",
+    "index": 3,
+    "type": "notification",
+    "picture": "http://placehold.it/32x32",
+    "header": "Id anim officia eiusmod amet tempor.",
+    "body": "Velit magna do ea reprehenderit culpa veniam ex. Sit mollit enim sint in esse eu magna in consectetur veniam. Reprehenderit veniam aliqua exercitation qui et nostrud eu dolor. Magna in consectetur cillum dolor esse excepteur minim eiusmod. Fugiat quis mollit qui ea. Mollit ipsum sunt esse consequat ut dolor.\r\n",
+    "isExpandable": true,
+    "expandableText": "Eiusmod esse ullamco duis ex excepteur sint aliquip nostrud irure. Esse ipsum ut et proident elit sit occaecat aliqua sunt Lorem ullamco adipisicing anim ullamco. Cupidatat ea nostrud amet elit sunt.\r\n",
+    "CTA": "withdrawl"
+  },
+  {
+    "_id": "631c4c5a4f2b2186531ded90",
+    "index": 4,
+    "type": "news",
+    "picture": "http://placehold.it/32x32",
+    "header": "Qui tempor labore ad sint et enim ea nisi cillum officia magna.",
+    "body": "Eiusmod incididunt ad sunt et ullamco aliquip aliqua deserunt. Cupidatat esse commodo enim anim. Cillum aliquip mollit Lorem officia deserunt consequat do. Est dolor labore et dolore duis anim esse velit ut labore consequat.\r\n",
+    "isExpandable": false,
+    "expandableText": "Reprehenderit nulla ad nostrud ipsum dolore mollit mollit deserunt aute fugiat cupidatat sint dolor incididunt. Labore esse elit mollit enim nostrud aliqua velit do aliqua. Occaecat non sint consectetur ullamco. Labore velit sunt sunt aute labore nostrud laboris minim eiusmod voluptate eiusmod.\r\n",
+    "CTA": "scan"
+  }
+]

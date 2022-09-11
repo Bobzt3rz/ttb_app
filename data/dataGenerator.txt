@@ -1,0 +1,20 @@
+[
+    '{{repeat(5,7)}}',
+    {
+        _id: '{{objectId()}}',
+        index: '{{index()}}',
+        type: function (tags) {
+            var type = ['news', 'graphics', 'notification'];
+            return type[tags.integer(0, type.length - 1)];
+        },
+        picture: 'http://placehold.it/32x32',
+        header: '{{lorem(1, "sentences")}}',
+        body: '{{lorem(1, "paragraphs")}}',
+        isExpandable: '{{bool()}}',
+        expandableText: '{{lorem(1,"paragraphs")}}',
+        CTA: function (tags) {
+            var type = ['none', 'transfer', 'withdrawl', 'scan', 'investment', 'qr'];
+            return type[tags.integer(0, type.length - 1)];
+        }
+    }
+]
